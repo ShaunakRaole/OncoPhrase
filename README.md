@@ -49,7 +49,7 @@ This creates the collection and batch-upserts:
 
 ### 3) Launch the Streamlit app
 ```bash
-streamlit run app/app.py
+streamlit run app.py
 ```
 
 
